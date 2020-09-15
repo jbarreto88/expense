@@ -91,6 +91,10 @@ input[type='number'] {
   width: 100%;
 }
 
+::placeholder {
+  color: #fff;
+}
+
 .btn {
   cursor: pointer;
   background-color: #9c88ff;
